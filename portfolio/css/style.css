@@ -425,15 +425,13 @@ li {
 }
 
 .buttonToTop {
-  width: 40px;
-  height: 40px;
-  background: #000;
+  width: 10vw;
+  height: 10vh;
   border-radius: 50%;
   color: #fff;
   z-index: 2;
-  display: none;
 }
-/*
+
 .buttonToTopSet {
   position: fixed;
   bottom: 2%;
@@ -442,7 +440,7 @@ li {
 .buttonToTopText {
   padding: 19%;
 }
-*/
+
 
 /*--------------------------------
  フッター

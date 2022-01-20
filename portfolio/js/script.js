@@ -16,5 +16,11 @@ $(function () {
     $("body,html").animate({ scrollTop: 0, }, 300);
     return false;
   });
-
+  
+  //ページトップ
+  $("#buttonToTop").on("click", function () {
+    $("body,html").animate({ scrollTop: 0, }, 300);
+    return false;
+  });
+  
 });
