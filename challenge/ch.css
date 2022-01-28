@@ -73,13 +73,6 @@ p.btn a {
     text-decoration: none;
     border-radius: 8px;
     font-size: 1.2em;
-    transition: background-color 0.15s;
-    transition: color 0.15s;
-}
-
-p.btn a:hover {
-    background: rgb(214, 106, 29);
-    color: rgb(212, 212, 212);
 }
 
 .flexContainer {
