@@ -13,10 +13,11 @@ body {
 }
 
 article {
-    margin: 2% auto;
-    padding: 2%;
+    margin: 20px auto;
+    padding: 20px;
     background: #fff;
-    max-width: 92%;
+    max-width: 90%;
+    width: 800px;
     position: relative;
 }
 
@@ -24,7 +25,7 @@ header {
     background: #f83;
     color: #fff;
     padding: 10px;
-    position: fixed;
+    position: absolute;
     top: 40px;
     left: 0;
 }
@@ -37,14 +38,14 @@ section {
 
 img {
     display: block;
-    margin-bottom: 5%;
+    margin-bottom: 40px;
     width: 100%;
     height: auto;
 }
 
 h1 {
     color: #f83;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 
 ul, ol {
@@ -56,7 +57,7 @@ address {
 }
 
 .btnArea {
-    padding: 40px;
+    margin-top: 40px;
 }
 
 p.btn {
